@@ -1,12 +1,13 @@
 {
-  "name": "github-portfolio",
-  "version": "0.1.0",
+  "name": "portfolio-enhanced",
+  "version": "1.0.0",
   "private": true,
-  "homepage": "https://targhib49.github.io",
+  "homepage": "https://targhib49.github.io/",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1"
+    "react-scripts": "5.0.1",
+    "framer-motion": "^10.16.4"
   },
   "scripts": {
     "start": "react-scripts start",
